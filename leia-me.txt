@@ -1,0 +1,20 @@
+IFSC - Instituto Federal de Santa Catarina
+
+Programação e Engenharia de Software
+
+Sistema de Matricula
+
+
+Por Denner Moraes e Emmanuel Públio
+
+
+
+---Instruções---
+
+- O Código é executado pelo main;
+
+-É necessario um servidor SQL pro código rodar (XAMMPP);
+
+- O banco de dados deve ser criado para o funcionamento do código;
+
+- Os comando de criação e inserção de dados de teste estão no arquivo database.sql;
