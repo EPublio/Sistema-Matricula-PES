@@ -1,5 +1,5 @@
 # Sistema de Matrícula
-Sistema de Matricula em Python desenvolvido durante a unidade curricular Programação e engenharia de Software por Denner Moraes e Emmanuel Públio.
+Sistema de Matricula em Python desenvolvido durante a unidade curricular Programação e engenharia de Software.
 
 O objetivo do projeto era avaliar a utilização de POO (Programação origetada a objeto).
 
